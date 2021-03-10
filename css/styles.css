@@ -26,12 +26,12 @@ html {
   scroll-snap-stop: always;
 } */
 
-@media (min-width: 768px) {
+/* @media (min-width: 768px) {
   .servicio {
     scroll-snap-align: center;
     scroll-snap-stop: always;
   }
-}
+} */
 
 *,
 * :before,
